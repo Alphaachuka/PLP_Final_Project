@@ -37,8 +37,7 @@ lerna-debug.log*
 Thumbs.db
 .DS_Store
 
-# AI tool cache
-.claude
+
 
 # Test files
 *.test.js
